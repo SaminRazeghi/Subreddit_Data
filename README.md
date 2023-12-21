@@ -27,8 +27,8 @@
     <li><strong>Clone the Repository:</strong></li>
   </ol>
 
-  <pre><code>git clone git@github.com:YourUsername/YourRepository.git
-cd YourRepository</code></pre>
+  <pre><code>git clone git@github.com:SaminRazeghi/Subreddit_Data.git
+cd Subreddit_Data</code></pre>
 
   <ol start="2">
     <li><strong>Configure Reddit API Credentials:</strong></li>
