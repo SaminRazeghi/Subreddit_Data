@@ -58,4 +58,4 @@ USER_AGENT = "your_user_agent"
 
   <p>Execute the script, specifying the desired subreddit to scrape:</p>
 
-  <pre><code>python your_script.py
+  <pre><code>python Misophonia_api.py
